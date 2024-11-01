@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="328px" viewBox="0 0 328 328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#53A0FD" offset="47.5247532%"></stop>
+            <stop stop-color="#B4EC51" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-14" transform="translate(-1843.000000, -1338.000000)">
+            <g id="icon" transform="translate(1843.000000, 1338.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="327" height="327"></rect>
+                <g id="LOGO-Copy" transform="translate(42.000000, 44.000000)" fill="#FFFFFF">
+                    <g id="clock-circular-outline" transform="translate(28.000000, 0.000000)" fill-rule="nonzero">
+                        <g id="Capa_1">
+                            <g id="Group">
+                                <path d="M94.1857143,0 C42.2517347,0 0,42.2517347 0,94.1857143 C0,146.119694 42.2517347,188.371429 94.1857143,188.371429 C146.119694,188.371429 188.371429,146.119694 188.371429,94.1857143 C188.371429,42.2517347 146.119694,0 94.1857143,0 Z M94.1857143,168.330306 C53.3027551,168.330306 20.0391837,135.070612 20.0391837,94.1857143 C20.0391837,53.3008163 53.3027551,20.0411224 94.1857143,20.0411224 C135.068673,20.0411224 168.332245,53.3008163 168.332245,94.1857143 C168.332245,135.070612 135.068673,168.330306 94.1857143,168.330306 Z" id="Shape"></path>
+                                <path d="M143.271633,91.277551 L100.944286,91.277551 L100.944286,40.3846939 C100.944286,36.1019388 97.4719388,32.6295918 93.1891837,32.6295918 C88.9064286,32.6295918 85.4340816,36.1019388 85.4340816,40.3846939 L85.4340816,99.0326531 C85.4340816,103.315408 88.9064286,106.787755 93.1891837,106.787755 L143.271633,106.787755 C147.554388,106.787755 151.026735,103.315408 151.026735,99.0326531 C151.026735,94.749898 147.554388,91.277551 143.271633,91.277551 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="TIMEDLINKS" font-family="Roboto-Medium, Roboto" font-size="40" font-weight="400">
+                        <tspan x="0" y="244">TIMEDLINKS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
